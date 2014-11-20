@@ -290,7 +290,7 @@ class term_core():
             
 def main():
     terminal = term_core()
-    print('dx-terminal-emulator версия 1.0 распространятея по лицензии CNU GPL v3')
+    print('dx-terminal-emulator версия 1.0 распространятея по лицензии GNU GPL v3')
     print('разработчик Маргорин А.С.')
     while True:
         terminal.set_prompt()
